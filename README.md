@@ -1,5 +1,5 @@
 River Side Resort Website
-Welcome to the README file for the River Side Resort website! This website has been developed as a part of the B.Tech 2nd semester web designing project by Harshit, Prikshit, Sushant, Athrav, and Aryan.
+Welcome to the README file for the River Side Resort website! This website has been developed as a part of the B.Tech 2nd semester web designing project 
 
 Project Description
 The River Side Resort website is designed to showcase a beautiful resort located by the riverside. It provides visitors with information about the resort's amenities, services, and attractions. The website aims to attract potential guests and provide them with a pleasant browsing experience.
